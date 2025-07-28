@@ -1,0 +1,6 @@
+../Core/Src/scheduler.c:22:6:scheduler_init	8	static
+../Core/Src/scheduler.c:26:6:create_task	24	static
+../Core/Src/scheduler.c:40:6:scheduler_run	48	static
+../Core/Src/scheduler.c:73:6:task_yield	8	static
+../Core/Src/scheduler.c:78:5:scheduler_all_tasks_done	16	static
+../Core/Src/scheduler.c:85:6:scheduler_reset_all_tasks	16	static
