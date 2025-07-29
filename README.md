@@ -6,7 +6,7 @@ This project implements a **bare-metal cooperative task scheduler** with integra
 
 ---
 
-## 📌 Features
+## Features
 
 - **Cooperative Task Scheduler** (no RTOS dependency)
   - Lightweight task structure
